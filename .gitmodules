@@ -1,0 +1,3 @@
+[submodule ".themes/octopanther"]
+	path = .themes/octopanther
+	url = https://github.com/kordless/octopanther.git
