@@ -4,7 +4,7 @@
   <title><![CDATA[BlueChipTek]]></title>
   <link href="http://bluechiptek.github.io/atom.xml" rel="self"/>
   <link href="http://bluechiptek.github.io/"/>
-  <updated>2013-11-04T15:40:17-08:00</updated>
+  <updated>2013-11-04T15:42:03-08:00</updated>
   <id>http://bluechiptek.github.io/</id>
   <author>
     <name><![CDATA[Kord Campbell]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Installing OpenStack Cinder in 10 Minutes]]></title>
-    <link href="http://bluechiptek.github.io/blog/2013/11/04/title.openstack-cinder/"/>
+    <link href="http://bluechiptek.github.io/blog/2013/11/04/openstack-cinder/"/>
     <updated>2013-11-04T11:38:00-08:00</updated>
-    <id>http://bluechiptek.github.io/blog/2013/11/04/title.openstack-cinder</id>
+    <id>http://bluechiptek.github.io/blog/2013/11/04/openstack-cinder</id>
     <content type="html"><![CDATA[<p>The <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CC4QFjAA&amp;url=http%3A%2F%2Fwiki.openstack.org%2FCinder&amp;ei=4IonUufGCIPuiQKS2oDICA&amp;usg=AFQjCNEMptnoNy9ZGAR6Qbuy9KhaMfvZzQ&amp;sig2=6LIC8BxMqWAbsycyyUNL3A&amp;bvm=bv.51773540,d.cGE">Cinder project</a> provides volume storage management for OpenStack deployments.  Cinder volumes appear as block storage devices to instances started in an OpenStack environment.  Cinder is also used by OpenStack for storage of instance snapshots and can be used to boot cloned images of existing running instances.</p>
 
 <p>You can familiarize yourself with the Cinder install process by watching the video below.</p>
